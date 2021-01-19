@@ -6,4 +6,7 @@
  * @version:
  */
 public class test {
+    public String  quick(){
+        return "";
+    }
 }
